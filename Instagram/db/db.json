@@ -1,0 +1,112 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "userId": 101,
+      "username": "john_doe",
+      "profileImage": "./src/assets/dp_img.jpeg",
+      "image": "./src/assets/download (1).jpeg",
+      "caption": "Enjoying the sunset 🌅",
+      "location": "Bali, Indonesia",
+      "likes": 245,
+      "comments": 18,
+      "createdAt": "2026-06-16T10:30:00Z"
+    },
+    {
+      "id": "2",
+      "userId": 102,
+      "username": "emma_smith",
+      "profileImage": "./src/assets/dp2_imd.jpeg",
+      "image": "./src/assets/download (3).jpeg",
+      "caption": "Coffee and coding ☕💻",
+      "location": "Amsterdam, Netherlands",
+      "likes": 412,
+      "comments": 35,
+      "createdAt": "2026-06-16T12:15:00Z"
+    },
+    {
+      "id": "3",
+      "userId": 103,
+      "username": "alex_walker",
+      "profileImage": "./src/assets/db3_img.jpeg",
+      "image": "./src/assets/download (4).jpeg",
+      "caption": "Weekend adventure 🚴",
+      "location": "Berlin, Germany",
+      "likes": 189,
+      "comments": 12,
+      "createdAt": "2026-06-15T18:20:00Z"
+    }
+  ],
+  "profile": {
+    "id": 101,
+    "username": "john_doeoopp",
+    "profileImage": "./src/assets/dp_img.jpeg"
+  },
+  "suggestions": [
+    {
+      "id": "101",
+      "username": "john_doe",
+      "profileImage": "./src/assets/dp_img.jpeg"
+    },
+    {
+      "id": "102",
+      "username": "emma_smith",
+      "profileImage": "./src/assets/dp2_imd.jpeg"
+    },
+    {
+      "id": "103",
+      "username": "smith",
+      "profileImage": "./src/assets/dp2_imd.jpeg"
+    },
+    {
+      "id": "104",
+      "username": "alex_walker",
+      "profileImage": "./src/assets/db3_img.jpeg"
+    },
+    {
+      "id": "105",
+      "username": "alex",
+      "profileImage": "./src/assets/db3_img.jpeg"
+    }
+  ],
+  "Story": [
+    {
+      "id": "1",
+      "userId": 101,
+      "username": "john_doe",
+      "profileImage": "./src/assets/dp_img.jpeg",
+      "image": "/src/assets/s1.jpeg"
+    },
+    {
+      "id": "2",
+      "userId": 102,
+      "username": "emma_smith",
+      "profileImage": "./src/assets/dp2_imd.jpeg",
+      "image": "/src/assets/s2.jpeg"
+    },
+    {
+      "id": "3",
+      "userId": 103,
+      "username": "alex_walker",
+      "profileImage": "./src/assets/db3_img.jpeg",
+      "image": "/src/assets/s3.jpeg"
+    }
+  ],
+  "follows":[
+    {
+       "userId": 101,
+      "username": "john_doe",
+      "profileImage": "./src/assets/dp_img.jpeg"
+    },
+    {
+     "userId": 102,
+      "username": "emma_smith",
+      "profileImage": "./src/assets/dp2_imd.jpeg"
+    },
+    {
+     "userId": 103,
+      "username": "alex_walker",
+      "profileImage": "./src/assets/db3_img.jpeg"
+    }
+  ]
+}
